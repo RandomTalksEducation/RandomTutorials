@@ -1,4 +1,4 @@
-# RandomTutorials
+# Random Tutorials
 Çeşitli yazılımlar ve yazılım çerçeveleri için ötelye çalışmaları.
 
 ## Davinci Resolve Atölye Çalışması: Temel Montaj Süreci
